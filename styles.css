@@ -1,0 +1,65 @@
+body{
+    background-color: #5A5A5A;
+    font-family: Urbanist, sans-serif;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://i.gifer.com/EFI0.gif");
+    object-fit: cover;
+    overflow: hidden;
+}
+img{
+    border-radius: 50%;
+    border: 5px solid #C6BB1B ;
+    object-fit: cover;
+    position: relative;
+    left: -65px;
+    top: -30px;
+}
+
+.quote-card{
+    background-color: #003E10;
+    color: whitesmoke;
+    border-radius: 0.25rem;
+    width: 700px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: grid;
+    grid-template-columns: 2fr 0.5fr;
+    grid-template-rows: 1fr;
+}
+
+.quote{
+    width: 550px;
+    font-size: 23px;
+}
+
+.author{
+    font-size: 15px;
+    width: 550px;
+    text-align: right;
+}
+
+button{
+    background-color: #003E10;
+    border: none;
+    color: whitesmoke;
+    height: 30px;
+}
+
+button:hover{
+    background-color: #5A5A5A;
+}
+.button{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+}

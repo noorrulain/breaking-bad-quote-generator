@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/breaking-bad-quote-generator/static/js/main.0d2ce8ab.js",
+    "static/media/tuco-salamanca.jpg": "/breaking-bad-quote-generator/static/media/tuco-salamanca.70f2c904c7627ff0c0b0.jpg",
+    "static/media/stephen-king.jpg": "/breaking-bad-quote-generator/static/media/stephen-king.73b7f992920620c59024.jpg",
+    "static/media/walter-white-jr.jpg": "/breaking-bad-quote-generator/static/media/walter-white-jr.cd14d941d3126982244f.jpg",
+    "static/media/saul-goodman.jpg": "/breaking-bad-quote-generator/static/media/saul-goodman.881de1d76c584c8a9ff8.jpg",
+    "static/media/jesse-pinkman.jpg": "/breaking-bad-quote-generator/static/media/jesse-pinkman.5be21cc5286b17abb484.jpg",
+    "static/media/gus-fring.jpg": "/breaking-bad-quote-generator/static/media/gus-fring.e221a6f5025fe39772c8.jpg",
+    "static/media/the-fly.jpg": "/breaking-bad-quote-generator/static/media/the-fly.60d1d6f8542c76b2c667.jpg",
+    "static/media/hank-schrader.jpg": "/breaking-bad-quote-generator/static/media/hank-schrader.fddb724d1876b6c6096d.jpg",
+    "static/media/skyler-white.jpg": "/breaking-bad-quote-generator/static/media/skyler-white.394f38b10e1fb3f099cc.jpg",
+    "static/media/walter-white.jpg": "/breaking-bad-quote-generator/static/media/walter-white.b62814cd20cbb4bee6b3.jpg",
+    "static/media/gale-boetticher.jpg": "/breaking-bad-quote-generator/static/media/gale-boetticher.7ece8ab32622e2b196fc.jpg",
+    "static/media/badger.jpg": "/breaking-bad-quote-generator/static/media/badger.34aa8701cbebac86f420.jpg",
+    "static/media/mike.jpg": "/breaking-bad-quote-generator/static/media/mike.8f10c84aeea90e444117.jpg",
+    "index.html": "/breaking-bad-quote-generator/index.html",
+    "main.0d2ce8ab.js.map": "/breaking-bad-quote-generator/static/js/main.0d2ce8ab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0d2ce8ab.js"
+  ]
+}
